@@ -1,0 +1,33 @@
+a {
+  color:WHITE;
+  text-decoration: none;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color:WHITE
+}
+h2{
+  display: inline;
+  color:WHITE
+}
+.now{
+  color:gray;
+}
+li{
+  display: inline;
+}
+ul{
+  text-align: center;
+}
+.Ability{
+  margin: 20px 0px 0px 0px;
+  text-align: left;
+}
+.Ability2{
+  color: white
+}
+.AGENTS{
+  position: fixed;
+  left: 1170px
+}
